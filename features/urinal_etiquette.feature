@@ -3,6 +3,15 @@ Feature: Urinal Etiquette @wip
   In order to not be unconfortable
   I need to be able to be able to figure out which if any urinal to use
 
+  Rules:
+    1. Get as far away from the door as possible.
+    2. Try not to stand next to another dude.
+    3. Really try not to stand next to two other dudes.
+
+    The exceptions are not that complicated either. Rules 2 and 3 can be violated in one of two cases.
+    1. There is a line
+    2. Someone else has already broken that particular rule.
+
 Background:
     Given there are 6 urinal spots
 
